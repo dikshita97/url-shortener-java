@@ -4,9 +4,6 @@ A **production‑grade, horizontally scalable URL Shortener** built with **Java 
 
 This project focuses on **scalability, performance, resilience, and clean architecture**, and demonstrates how real backend systems are built.
 
-## 🌍 Live Demo
-Swagger UI: http://ec2-13-219-183-180.compute-1.amazonaws.com:8080/swagger-ui/index.html
-
 ---
 
 ## 🚀 Features
@@ -176,13 +173,8 @@ The project is **feature‑complete and interview‑ready**.
 
 ---
 
-## 🎯 Interview‑Ready Summary
+## 🎯 Summary
 
 > Built a URL Shortener with a stateless Spring Boot backend, Redis for caching, rate limiting, and distributed ID generation, and horizontally scaled the database using hash‑based sharding across multiple MySQL instances. The system gracefully degrades when Redis is unavailable to ensure high availability.
 
 ---
-
-## 📄 License
-
-This project is for learning and demonstration purposes.
-
