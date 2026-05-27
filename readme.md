@@ -150,7 +150,7 @@ This mirrors how sharded systems are implemented in real production environments
 
 ## 🛠 Tech Stack
 
-- Java 17
+- Java 
 - Spring Boot
 - Spring Web
 - Spring JDBC
